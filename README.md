@@ -127,8 +127,8 @@
 </section>
 
 <footer id="contact">
-    <p>Entre em contato: <a href="mailto: jutavaressobrancelhas_">email juceliajujubatavares@hotmail.com</a> | Telefone: (32) 98701-8608</p>
-</footer>
+    <p>Entre em contato: <a href="mailto: jutavaressobrancelhas_">juceliajujubatavares@hotmail.com</a> | Telefone: (32) 98701-8608</p>
+</jutavaressobrancelhas_>
 
 </body>
 </html>
