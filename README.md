@@ -127,7 +127,7 @@
 </section>
 
 <footer id="contact">
-    <p>Entre em contato: <a href="mailto:email@dominio.com">email@dominio.com</a> | Telefone: (00) 00000-0000</p>
+    <p>Entre em contato: <a href="mailto: jutavaressobrancelhas_">email juceliajujubatavares@hotmail.com</a> | Telefone: (32) 98701-8608</p>
 </footer>
 
 </body>
